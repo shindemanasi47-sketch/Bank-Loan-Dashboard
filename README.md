@@ -1,3 +1,5 @@
+<img width="1842" height="655" alt="image" src="https://github.com/user-attachments/assets/5cc5e8a3-f76e-43a3-9da2-4513f9c1dfc3" />
+
 
 # Bank Loan Portfolio Dashboard
 
